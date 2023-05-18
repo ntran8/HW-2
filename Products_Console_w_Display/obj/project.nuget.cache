@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n4T/JrZ7IfuRQ1nEHeyw9To+2RHjQzzlcUFODWho+jkK+tAdKQJ8Af6WjMpE/3Kj1ZAki73pWlNkYN1TeFrthw==",
+  "success": true,
+  "projectFilePath": "/Users/nhan-aitran/Desktop/WebProg/displayprodconsole/Products_Console_w_Display/Products_Console_w_Display.csproj",
+  "expectedPackageFiles": [
+    "/Users/nhan-aitran/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/nhan-aitran/.nuget/packages/npgsql/7.0.2/npgsql.7.0.2.nupkg.sha512",
+    "/Users/nhan-aitran/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
